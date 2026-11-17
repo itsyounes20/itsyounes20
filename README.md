@@ -1,22 +1,32 @@
-<h1>👋 Hello, I'm <a href="https://itsyounes20.github.io/portfolio/">Younes</a></h1>
-<h3>🎓 Second-year Master's student in Artificial Intelligence</h3>
+<h1>👋 Hello, I'm <a href="https://itsyounes20.github.io/portfolio/" target="_blank">Younes</a></h1>
 
-<p>I'm passionate about technology, with a particular interest in <strong>web development</strong> and <strong>artificial intelligence</strong>. I enjoy building things and doing problem-solving.</p>
+## 👨‍💻 About Me
+I'm passionate about technology, with a particular interest in **web development** and **artificial intelligence**. I enjoy building things and doing problem-solving.
 
-<hr>
+## 🛠️ Tech Stack
 
-<h2>🌐 Web Development</h2>
+### 🌐 Web Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php" alt="Web development skills" height="48" />
+</p>
 
-<p><img src="[https://skillicons.dev/icons?i=html,css,js,php](https://skillicons.dev/icons?i=html,css,js,php)" width="120px" /></p>
+### 🤖 Artificial Intelligence
 
-<hr>
+<p>
+  <img src="https://skillicons.dev/icons?i=python" alt="AI skills" height="48" />
+</p>
 
-<h2>🤖 Artificial Intelligence</h2>
+### 🧰 Tools
 
-<p><img src="[https://skillicons.dev/icons?i=python](https://skillicons.dev/icons?i=python)" width="120px"/></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Tools" height="48" />
+</p>
 
-<hr>
 
-<h3>🔗 Connect with me</h3>
 
-<a href="https://www.linkedin.com/in/younes-bouras-3a8b5428a">Linked-in</a>
+## 🔗 Connect with Me
+
+<p>
+  <a href="https://itsyounes20.github.io/portfolio/"><img src="https://img.shields.io/badge/-Portfolio-2F81F7?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/younes-bouras-3a8b5428a"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
