@@ -1,4 +1,4 @@
-# 💫 Hello I am Younes:
+# Hello I am Younes 👋:
 
 Second-year Master's student specializing in Artificial Intelligence. Passionate about web and game development. 
 
